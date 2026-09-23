@@ -1,4 +1,4 @@
 .env
 bot.db
-bot.log
+boot.log
 __pycache__/
