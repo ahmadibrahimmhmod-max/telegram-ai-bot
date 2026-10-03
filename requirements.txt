@@ -1,4 +1,5 @@
 python-telegram-bot
 groq
 python-dotenv
+aiosqlite
 httpx
